@@ -1,4 +1,4 @@
-# Computational Intelligence - Lab2 TSP
+# Computational Intelligence - Lab 2: TSP
 
 ## Results
 ### First Greedy Algorithm
