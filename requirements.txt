@@ -1,8 +1,7 @@
 logging
-intrertools
+itertools
 pandas
 numpy
 geopy
-networkx
 random
 icecream
