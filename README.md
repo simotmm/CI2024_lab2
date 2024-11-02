@@ -1,4 +1,6 @@
 # Computational Intelligence - Lab 2: TSP
+The goal of this lab is to solve the Traveling Salesman Problem ("TSP", https://en.wikipedia.org/wiki/Travelling_salesman_problem) with the given instances (in the "cities" directory) 
+using a fast but approximate algorithm and a slower yet more accurate one.
 
 ## Results
 ### Greedy Algorithm
